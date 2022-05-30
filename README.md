@@ -24,10 +24,10 @@ I prefer UI/UX design and Front End Development.✍🏽 Besides that, I also wan
 ### GitHub Stats
 <div style="display: flex">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=imamrdn&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Riyanadi1208&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamrdn&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanadi1208&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile" />
   </div>
 </div
 
