@@ -24,15 +24,15 @@ I prefer UI/UX design and Front End Development.✍🏽 Besides that, I also wan
 ### GitHub Stats
 <div style="display: flex">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Riyanadi1208&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Riyanadi120802&show_icons=true&count_private=true&hide_border=true&theme=dark&include_all_commits=true" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanadi1208&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyanadi120802&hide_border=true&layout=compact&theme=dark&hide=css,scss,html,makefile" />
   </div>
 </div
 
 <!-- 
-**Riyanadi1208/Riyanadi1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Riyanadi120802/Riyanadi120802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
