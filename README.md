@@ -1,6 +1,6 @@
 ## Hi, I'm Riyan 🖐
 
-I prefer UI/UX design and Front End Development.✍🏽 Besides that, I also want to study flutter.📱 There is no end to learning knowledge and continuing to seek experience wherever and whenever👌
+I prefer Artificial Intelligence and UI/UX Designer.✍🏽 There is no end to learning knowledge and continuing to seek experience wherever and whenever👌
 
 👯 If you want to discuss and collaborate with me. You can contact at [WhatsApp](https://wa.me/+6288232206647) <br>
 💬 You can see about me on [Linkedin](https://www.linkedin.com/in/riyan-adi-00ba9a202/)
